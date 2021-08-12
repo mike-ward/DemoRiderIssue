@@ -1,0 +1,14 @@
+﻿[
+  {
+    "outputFileName": "site.css",
+    "inputFiles": [
+      "assets/dummy.css"
+    ]
+  },
+  {
+    "outputFileName": "vendor.js",
+    "inputFiles": [
+      "assets/dummy.js"
+    ]
+  }
+]
